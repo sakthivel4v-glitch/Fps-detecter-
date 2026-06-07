@@ -1,0 +1,6 @@
+{
+  "name": "FPS Meter",
+  "description": "Real-time performance metrics, fps monitor, device refresh rate diagnostics, custom hardware profiles, and live stress testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
